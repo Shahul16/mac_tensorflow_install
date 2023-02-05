@@ -14,7 +14,7 @@ It also has steps below to setup your M1, M1 Pro, M1 Max, M1 Ultra or M2 Mac to 
 ## Machine Learning Experiments Conducted
 
 ## Steps (how to test your Apple Silicon machine)
-1. Create an environment and install dependencies ([see below](https://github.com/mrdbourke/m1-machine-learning-test#how-to-setup-a-tensorflow-environment-on-m1-m1-pro-m1-max-using-miniforge-shorter-version))
+1. Create an environment and install dependencies )
 2. Clone this repo
 3. Run various notebooks (results come at the end of the notebooks)
 
